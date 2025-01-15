@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Course.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Course.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Student.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Student.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base_class.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/cache/courses/course_1.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/function.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/main.cpp" charset="GBK" />
+  </component>
+</project>
